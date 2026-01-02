@@ -1,5 +1,3 @@
-# python-basics-projects
-Beginner Python programs while learning programming
 # Python Basics Projects
 
 This repository contains simple Python programs created while learning programming.
