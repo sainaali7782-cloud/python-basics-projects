@@ -10,3 +10,5 @@ This repository contains simple Python programs created while learning programmi
 
 ## Purpose
 Learning Python fundamentals and building logic for future projects.
+## Programs Included
+- Basic Calculator
